@@ -1,0 +1,10 @@
+.idea/
+build/
+.gradle/
+out/
+Module01/build/
+Module01/.gradle/
+Module01/out/
+Module02/build/
+Module02/.gradle/
+Module02/out/
